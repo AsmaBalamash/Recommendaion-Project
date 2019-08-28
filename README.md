@@ -2,6 +2,7 @@
 ## Introduction
 For this project you will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
+![alt screenshot](https://github.com/AsmaBalamash/Recommendations-with-IBM/blob/master/screen-shot-2018-09-17-at-3.40.30-pm.png)
 
 Though the above dashboard is just showing the newest articles, you could imagine having a recommendation board available here that shows the articles that are most pertinent to a specific user.
 
